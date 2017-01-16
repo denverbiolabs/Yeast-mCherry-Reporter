@@ -2,5 +2,5 @@
 
 http://2016.igem.org/Team:Denver_Biolabs
 
-We use (and love) SnapGene work with these files. There is also a free version, SnapGene Viewer. 
+We use (and love) SnapGene to work with these files. There is also a free version, SnapGene Viewer. 
 www.snapgene.com
